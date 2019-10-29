@@ -1,7 +1,8 @@
 # Interceptor
-Simple keylogger for windows. In essence just a ruinning version of the 
-stackoverflow answer [here](https://stackoverflow.com/a/604417/1385324). It 
-simply prints out all keys pressed to a console window.
+Simple keylogger for windows for educational purposes. It's just a running
+version of the stackoverflow answer
+[here](https://stackoverflow.com/a/604417/1385324). It prints out all
+keys pressed to a console window.
 
 ```
 $ dotnet run
